@@ -1,0 +1,5 @@
+# some shell script
+# those scrpit that created or modifyed by me
+
+#!/bin/bash 
+echo 'hello world'
